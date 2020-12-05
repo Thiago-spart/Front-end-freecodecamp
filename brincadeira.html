@@ -43,9 +43,15 @@
 		<p>View more <a href="https://freecatphotoapp.com">cat photos</a></p>
 	
 		<form action="https://freecatphotoapp.com/submit-cat-photo">
-			<input type="text" placeholder="cat photo URL">
+			<input type="text" placeholder="cat photo URL" required=""><br>
+
+			<input type="radio" id="indoor" name="indoor-outdoor">
+			<label for="indoor">Indoor</label><br>
+			<input type="radio" id="outdoor" name="indoor-outdoor">
+			<label for="outdoor">Outdoor</label><br>
 
 			<button type="submit">Submit</button>	
+		
 		</form>
 		
 	</main><!--/main-->
