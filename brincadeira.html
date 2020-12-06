@@ -45,13 +45,21 @@
 		<form action="https://freecatphotoapp.com/submit-cat-photo">
 			<input type="text" placeholder="cat photo URL" required=""><br>
 
-			<input type="radio" id="indoor" name="indoor-outdoor">
-			<label for="indoor">Indoor</label><br>
-			<input type="radio" id="outdoor" name="indoor-outdoor">
-			<label for="outdoor">Outdoor</label><br>
+			<label for="indoor"> 
+			  <input id="indoor" type="radio" name="indoor-outdoor">Indoor 
+			</label>
+
+			<label for="outdoor">
+				<input id="outdoor" type="radio" name="indoor-outdoor">Outdoor
+			</label><br>
+
+			<label for="loving"><input id="loving" type="checkbox" name="personality"> Loving</label><br>
+			<label for="loving"><input id="loving" type="checkbox" name="personality">Hating</label><br>
+			<label for="loving"><input id="loving" type="checkbox" name="personality">cute</label><br>
+
+				
 
 			<button type="submit">Submit</button>	
-		
 		</form>
 		
 	</main><!--/main-->
