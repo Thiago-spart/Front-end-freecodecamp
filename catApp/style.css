@@ -1,3 +1,16 @@
+p {
+	font-size: 16px;
+	font-family: monospace;
+}
+ 
+h2 {
+	font-family: Lobster, monospace;
+}
+
 .red-text {
 	color: red;
+}
+
+.smaller-image {
+	width: 100px;
 }
