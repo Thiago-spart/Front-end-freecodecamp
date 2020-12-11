@@ -1,12 +1,46 @@
-<style>
-  div {
-    border-radius: 20px;
-    width: 70%;
-    height: 400px;
-    margin: 50px auto;
-    background: linear-gradient(35deg, #CCFFFF, #FFCCCC)
-  }
+<<!DOCTYPE html>
+<html>
+<head>
+	<title>Exemplos html</title>
+	<style>
+	  /*Ex-1*/
+	  div {
+	    border-radius: 20px;
+	    width: 70%;
+	    height: 400px;
+	    margin: 50px auto;
+	    background: linear-gradient(35deg, #CCFFFF, #FFCCCC)
+	  }
+	  /*Ex-2*/
+	  .ball {
+	    width: 40px;
+	    height: 40px;
+	    margin: 50 auto;
+	    position: fixed;
+	    background: linear-gradient(
+	      35deg,
+	      #ccffff,
+	      #ffcccc
+	    );
+	    border-radius: 50%;
+	  }
+	  #ball1 {
+	    left: 20%;
+	  }
+	  #ball2 {
+	    left: 65%;
+	    transform: scale(1.5);
+	  }
+	  
+	</style>
+</head>
+<body>
+	<!--Ex-1-->
+	<div></div>
+  	<!--Ex-2-->
+	<div class="ball" id= "ball1"></div>
+	<div class="ball" id= "ball2"></div>
 
-</style>
 
-<div></div>
+</body>
+</html>
