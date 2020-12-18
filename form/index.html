@@ -21,10 +21,23 @@
 				<input type="text" name="name" id="name" class="form-control" placeholder="Enter your name" required="">
 			</div>
 			<div class="form-group">
-				
+				<label id="email-label" for="email">E-mail</label>
+				<input type="email" name="email" id="email" class="form-control" placeholder="Enter your e-mail" required>
 			</div>
 			<div class="form-group">
-				
+				<label id="number-label" for="number">Age<span class="clue">(opcional)</span></label>
+				<input type="number" name="number" id="number" min="10" max="100" class="form-control" placeholder="Age">
+			</div>
+			<div class="form-group">
+				<p>What's the most important thing in your career?</p>
+				<select id="dropdown" name="role" class="form-control" required>
+					<option disabled selected value>Select current role</option>
+					<option value="student">Student</option>
+					<option value="job">Full Time Job</option>
+					<option value="learner">Full Time Learner</option>
+					<option value=""></option>
+					<option value=""></option>
+				</select>
 			</div>
 		</form>
 	</main>
