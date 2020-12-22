@@ -1,1 +1,1 @@
-const projectName = '';
+const projectName = 'Papiba host';
