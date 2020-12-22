@@ -209,6 +209,12 @@ nav > ul {
 	}
 }
 
+#how-it-work {
+	margin-top: 50px;
+	display: flex;
+	justify-content: center;
+}
+
 #how-it-work > iframe {
 	max-width: 560px;
 	width: 100%;
