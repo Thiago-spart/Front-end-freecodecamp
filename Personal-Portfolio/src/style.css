@@ -47,3 +47,33 @@ body {
 	line-height: 1.4em;
 	color: var(--main-white);
 }
+
+h1, h2 {
+	font-family: sans-serif;
+	font-weight: 700;
+	text-align: center;
+}
+
+h1 {
+	font-size: 6em;
+}
+
+h2 {
+	font-size: 2em;
+}
+
+ul {
+	list-style: none;
+}
+
+a {
+	text-decoration: none;
+	color: var(--main-white); 
+}
+
+img {
+	display: block;
+	width: 100%;
+}
+
+.nav
