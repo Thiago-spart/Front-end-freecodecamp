@@ -1,9 +1,17 @@
 html, body {
 	min-width: 290px;
-	color: #4d4e53;
-	background-color: #fff;
+	color: #ECECEC;
+	background-color: #1C1C1C;
 	font-family: Arial, sans-serif;
 	line-height: 1.5;
+}
+
+a {
+	color: #ECECEC;
+}
+
+a:hover {
+	color: #E3E3E3; 
 }
 
 #navbar {
@@ -18,7 +26,7 @@ html, body {
 }
 
 header {
-	color: black;
+	color: #ECECEC;
 	margin: 10px;
 	text-align: center;
 	font-size: 1.8em;
@@ -38,7 +46,7 @@ header {
 }
 
 #navbar li {
-	color: #4d4e53;
+	color: #ECECEC;
 	border-top: 1px solid;
 	list-style: none;
 	position: relative;
@@ -48,7 +56,7 @@ header {
 #navbar a {
 	display: block;
 	padding: 10px 30px;
-	color: #4d4e53;
+	color: #ECECEC;
 	text-decoration: none;
 	cursor: pointer;
 }
@@ -61,7 +69,7 @@ header {
 }
 
 section article {
-	color: #4d4e53;
+	color: #ECECEC;
 	margin: 15px;
 	font-size: 0.96em;
 }
@@ -78,7 +86,7 @@ code {
 	word-break: normal;
 	word-wrap: normal;
 	line-height: 2;
-	background-color: #f7f7f7;
+	background-color: #2B2B2B;
 	padding: 15px;
 	margin: 10px;
 	border-radius: 5px;
