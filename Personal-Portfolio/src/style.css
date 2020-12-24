@@ -11,7 +11,7 @@
 	padding: 0;
 }
 
-*, *:before, *:after {
+*, *::before, *::after {
 	box-sizing: inherit;
 }
 
@@ -42,9 +42,9 @@ html {
 
 body {
 	font-family: sans-serif;
-	font-size: 1.8em;
+	font-size: 1.8rem;
 	font-weight: 400;
-	line-height: 1.4em;
+	line-height: 1.4;
 	color: var(--main-white);
 }
 
@@ -55,11 +55,11 @@ h1, h2 {
 }
 
 h1 {
-	font-size: 6em;
+	font-size: 6rem;
 }
 
 h2 {
-	font-size: 2em;
+	font-size: 2rem;
 }
 
 ul {
@@ -221,7 +221,7 @@ img {
 	transition: transform 0.3s ease-out;
 }
 
-.content-section {
+.contact-section {
 	display: flex;
 	flex-direction: column;
 	justify-content: center;
