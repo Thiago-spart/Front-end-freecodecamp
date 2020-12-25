@@ -14,13 +14,14 @@ All Focus of the projects is just practce HTML and CSS a lot. You'll found this 
 
 ## 2. Projects
 
-| Name       | Technologies     | Original  |
-| -------------   |-------------|------------|
-| Form     | CSS, HTML, JS   |    |
-| Landing-page     | CSS, HTML, JS   |    |
-| Mini-js-doc     | CSS, HTML, JS   |    |
-| Personal-Portfolio     | CSS, HTML, JS   |    |
-| A-good-man     | CSS, HTML, JS   |    |
+| Name          | Type        | Description                                     |
+| --------------|-------------|-------------------------------------------------|
+| Form          | CSS HTML JS | The URL of the image.                           |
+| Landing-page  | CSS HTML JS |-------------------------------------------------|
+| Mini-js-doc   | CSS HTML JS |-------------------------------------------------|
+| Portfolio     | CSS HTML JS |-------------------------------------------------|
+| A-good-man    | CSS HTML JS |-------------------------------------------------|
+
 
 
 Site of Freecodecamp: https://www.freecodecamp.org 
