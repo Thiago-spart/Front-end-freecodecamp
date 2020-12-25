@@ -10,9 +10,17 @@ This repository is all of my activiries in Freecodecamp web responsive.
 - [Testing](#4-testing)
 
 ## 1. Overview
-All Focus of the projects is just practce HTML and CSS a lot. You'll found this course here `https://www.freecodecamp.org`.
+All Focus of the projects is just practce HTML and CSS a lot. You'll found this course in [Freecodecamp](https://www.freecodecamp.org).
 
+## 2. Projects
 
-This include Sample Form, A good man and a lot of others activities.
+| Name       | Technologies     | Original  |
+| -------------   |-------------|------------|
+| Form     | CSS, HTML, JS   |    |
+| Landing-page     | CSS, HTML, JS   |    |
+| Mini-js-doc     | CSS, HTML, JS   |    |
+| Personal-Portfolio     | CSS, HTML, JS   |    |
+| A-good-man     | CSS, HTML, JS   |    |
+
 
 Site of Freecodecamp: https://www.freecodecamp.org 
