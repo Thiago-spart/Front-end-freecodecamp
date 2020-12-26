@@ -1,6 +1,6 @@
 # Front-end-freecodecamp
 
-This repository is all of my activiries in Freecodecamp web responsive course.
+This repository is all of my activities in Freecodecamp web responsive course.
 
 #### Contents
 
@@ -11,7 +11,7 @@ This repository is all of my activiries in Freecodecamp web responsive course.
 
 ## 1. Overview
 
-All Focus of the projects is just practice HTML and CSS a lot. You'll found this course in [Freecodecamp](https://www.freecodecamp.org).
+All focus of the projects is just practice HTML and CSS a lot. You'll find this course in [Freecodecamp](https://www.freecodecamp.org).
 
 ## 2. Projects
 
@@ -25,11 +25,11 @@ All Focus of the projects is just practice HTML and CSS a lot. You'll found this
 
 ## 3. Running
 
-1. Open any browser(recommend Google)
+1. Open any browser (recommend Google Chrome)
 2. Select any index.html inside the projects 
 3. Done!
 
 ## 4. Testing
 
-All the projects have a link that's contains all the [tests](https://www.freecodecamp.org) required by freecodecamp
+All the projects have a link that contains all the [tests](https://www.freecodecamp.org) required by freecodecamp
 
