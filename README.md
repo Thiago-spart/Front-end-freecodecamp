@@ -11,7 +11,7 @@ This repository is all of my activiries in Freecodecamp web responsive course.
 
 ## 1. Overview
 
-All Focus of the projects is just practce HTML and CSS a lot. You'll found this course in [Freecodecamp](https://www.freecodecamp.org).
+All Focus of the projects is just practice HTML and CSS a lot. You'll found this course in [Freecodecamp](https://www.freecodecamp.org).
 
 ## 2. Projects
 
