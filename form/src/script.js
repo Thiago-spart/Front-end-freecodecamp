@@ -1,1 +1,1 @@
-const projectName = 'survey-form'
+const projectName = 'sample-form'
