@@ -18,10 +18,10 @@ All Focus of the projects is just practce HTML and CSS a lot. You'll found this 
 | Name          | Type        | Description                                     |
 | --------------|-------------|-------------------------------------------------|
 | Form          | CSS HTML JS | Sample form.                                    |
-| Landing-page  | CSS HTML JS | Sample form.                                    |
-| Mini-js-doc   | CSS HTML JS |-------------------------------------------------|
-| Portfolio     | CSS HTML JS |-------------------------------------------------|
-| A-good-man    | CSS HTML JS |-------------------------------------------------|
+| Landing-page  | CSS HTML JS | One business page.                              |
+| Mini-js-doc   | CSS HTML JS | A dark JS doc.                                  |
+| Portfolio     | CSS HTML JS | A fake portfolio page.                          |
+| A-good-man    | CSS HTML JS | A page to honor someone.                        |
 
 ## 3. Running
 
