@@ -31,5 +31,5 @@ All focus of the projects is just practice HTML and CSS a lot. You'll find this 
 
 ## 4. Testing
 
-All the projects have a link that contains all the [tests](https://www.freecodecamp.org) required by freecodecamp
+All the projects have a link that contains all the [tests](https://cdn.freecodecamp.org/testable-projects-fcc/v1/bundle.js) required by freecodecamp
 
