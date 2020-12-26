@@ -22,6 +22,10 @@ All Focus of the projects is just practce HTML and CSS a lot. You'll found this 
 | Portfolio     | CSS HTML JS |-------------------------------------------------|
 | A-good-man    | CSS HTML JS |-------------------------------------------------|
 
+## 3. Running
 
+1. Open any browser(recommend Google)
+2. Select and any index.html inside the projects 
+3. Done!
 
 Site of Freecodecamp: https://www.freecodecamp.org 
