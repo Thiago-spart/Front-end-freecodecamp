@@ -1,6 +1,6 @@
 # Front-end-freecodecamp
 
-This repository is all of my activiries in Freecodecamp web responsive.
+This repository is all of my activiries in Freecodecamp web responsive course.
 
 #### Contents
 
